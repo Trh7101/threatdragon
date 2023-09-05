@@ -548,7 +548,7 @@
               "hasOpenThreats": false,
               "threats": []
             },
-            "id": "29e430fe-9c24-491f-ad95-87c90fedd03f",
+            "id": "17e84285-27f9-4b45-9cee-dd66b138a5fb",
             "source": {
               "cell": "65c2d6a3-4222-448b-8d87-1565b9686be3"
             },
@@ -560,17 +560,7 @@
                 "x": 840,
                 "y": 359.5
               }
-            ],
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove",
-                "vertices",
-                "source-arrowhead",
-                "target-arrowhead"
-              ],
-              "name": null
-            }
+            ]
           },
           {
             "position": {
